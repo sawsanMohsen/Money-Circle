@@ -1,0 +1,2 @@
+# Money-Circle
+Money Pool consists of 10 people that agree to contribute one fixed amount of money (100$) on a mentioned amount of time (1 month). When the group pools all the money, one member of this group will receive the funds. After a month, the same 10 people again will make their contribution and the money (1000$) is taken by another member in the circle. This continues till every member receive their lump sum of money. This application takes the same concept and acquire it on blockchain using Ethereum™ to provide small personal cryptocurrency loans for its users .
